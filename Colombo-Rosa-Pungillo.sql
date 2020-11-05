@@ -4,9 +4,9 @@
 #									   
 # GRUPPO FORMATO DA:							   
 #									   
-# Matricola: 7011579     Cognome: Colombo 	       Nome: Jonathan      
-# Matricola: 7006087     Cognome: Pungillo         Nome: Marco             
-# Matricola: 7006960     Cognome: Rosa	           Nome: Angelo            
+# Matricola:      Cognome:  	    Nome:      
+# Matricola:      Cognome:          Nome:             
+# Matricola:      Cognome: 	    Nome:             
 #									   
 ############################################################################
 
