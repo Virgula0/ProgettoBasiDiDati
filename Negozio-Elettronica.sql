@@ -17,9 +17,9 @@
 ################   Creazione schema e vincoli database     #################
 ############################################################################
 
-DROP DATABASE IF EXISTS ROSA_PUNGILLO_COLOMBO;
-CREATE DATABASE IF NOT EXISTS ROSA_PUNGILLO_COLOMBO;
-USE ROSA_PUNGILLO_COLOMBO;
+DROP DATABASE IF EXISTS NEGOZIO_ELETTRONICA;
+CREATE DATABASE IF NOT EXISTS NEGOZIO_ELETTRONICA;
+USE NEGOZIO_ELETTRONICA;
 
 DROP TABLE IF EXISTS Clienti;
 
